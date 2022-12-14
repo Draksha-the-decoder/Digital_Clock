@@ -7,7 +7,7 @@ body{
     align-items: center;
 }
 div{
-    background: linear-gradient(to bottom,gray, rgba(0, 183, 255, 0.658));
+    background: linear-gradient(to bottom,grey, rgba(0, 183, 255, 0.658));
     display: inline-block;
     color: aliceblue;        
     font-size: 3vw;
