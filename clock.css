@@ -18,3 +18,14 @@ div{
 h1{
     color: rgb(235, 217, 217);
 }        
+@media screen and (max-width:420px)
+{
+    h1{font-size: 23px ;}
+    div
+    {
+        padding: 10vw;
+        width: 140px;
+        height: 120px;
+        font-size: 13px; 
+    }   
+} 
