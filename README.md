@@ -21,9 +21,6 @@ Welcome to the Digital Clock project! This simple website displays the current t
 
 To view the Digital Clock in action, simply open the `index.html` file in a web browser.
 
-```bash
-open index.html
-
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
 - Fork the repository.
