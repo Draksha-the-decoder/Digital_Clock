@@ -1,5 +1,6 @@
 body{
     background-color: black; 
+    background-image : url("https://images.pexels.com/photos/880989/pexels-photo-880989.jpeg");
     width:90vw;
     height: 90vh;
     display: flex;
@@ -7,7 +8,7 @@ body{
     align-items: center;
 }
 div{
-    background: linear-gradient(to bottom,grey, rgba(0, 183, 255, 0.658));
+    background: linear-gradient(to bottom,grey, rgba(0, 183, 255, 0.3));
     display: inline-block;
     color: aliceblue;        
     font-size: 3vw;
